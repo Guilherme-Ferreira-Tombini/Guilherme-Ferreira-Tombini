@@ -1,4 +1,4 @@
-### Olá, eu sou o Guilherme Ferreira Tombini 
+### Olá! Eu sou o Guilherme Ferreira Tombini 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-ferreira-tombini-593015247/)
 
