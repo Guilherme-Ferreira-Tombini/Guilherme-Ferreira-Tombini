@@ -1,4 +1,4 @@
-### Olá! Eu sou o Guilherme Ferreira Tombini 
+### Olá! Eu sou o Guilherme Ferreira Tombini  👨‍💻
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-ferreira-tombini-593015247/)
 
@@ -6,6 +6,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Ferreira-Tombini&theme=gruvbox)](https://github.com/Guilherme-Ferreira-Tombini/github-readme-stats)
 
+### Formação
+Ensino medio tecnico em informatica - IFMS
 
 
 ### Tecnologias que utilizo ou já utilizei
