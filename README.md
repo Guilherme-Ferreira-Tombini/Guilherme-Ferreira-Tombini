@@ -4,7 +4,7 @@
 
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Ferreira-Tombini&show_icons=true&theme=gruvbox)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Ferreira-Tombini&theme=gruvbox)](https://github.com/Guilherme-Ferreira-Tombini/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Ferreira-Tombini&layout=compact&theme=gruvbox)
 
 ### Formação
 Ensino medio tecnico em informatica - IFMS
