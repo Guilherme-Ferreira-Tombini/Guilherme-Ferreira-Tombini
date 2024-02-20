@@ -8,6 +8,7 @@
 
 ### Formação
 Ensino medio tecnico em informatica - IFMS
+Cursando a graduação Sistemas de Informação - UEMS
 
 
 ### Tecnologias que utilizo ou já utilizei
