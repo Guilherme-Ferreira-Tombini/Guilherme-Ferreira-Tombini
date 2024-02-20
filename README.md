@@ -7,7 +7,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Ferreira-Tombini&layout=compact&theme=gruvbox)
 
 ### Formação
-Ensino medio tecnico em informatica - IFMS
+Ensino medio tecnico em informatica - IFMS</br>
 Cursando a graduação Sistemas de Informação - UEMS
 
 
